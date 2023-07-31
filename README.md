@@ -1,6 +1,10 @@
 ### Sejam bem vindos ao meu perfil 🐖 🦎 🌵 🌼
 
-Me chamo _Amy Valendorff_ 🧙 🧝‍♀️
+Eu me chamo _Amy Valendorff_ 🧙 🧝‍♀️
+
+Estou estudando na alura
+
+Estou me desenvolvendo na linguagem JavaScript 
 
 ![](https://media.tenor.com/g9YZGVdnkqIAAAAC/plants-love.gif)
 
